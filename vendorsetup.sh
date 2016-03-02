@@ -1,1 +1,1 @@
-add_lunch_combo slim_amami-userdebug
+add_lunch_combo yoshi_amami-userdebug
