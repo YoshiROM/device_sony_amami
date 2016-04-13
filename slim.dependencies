@@ -1,6 +1,6 @@
 [
   {
-    "repository": "SlimRoms/device_sony_rhine-common",
+    "repository": "YoshiROM/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
     "branch": "lp5.1"
   },
